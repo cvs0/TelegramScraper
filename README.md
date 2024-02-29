@@ -65,10 +65,7 @@ To gather intelligence from a Telegram channel:
 
 ## Recent Updates
 
-- Ability to view and download all types of media from channels.
-- Option to select the number of messages for downloading.
-- Dual format text saving: pretty text and full JSON dumps.
-- Numerous improvements and bug fixes to enhance existing features.
+- Added colored terminal.
 
 ## Credits
 Credits to [tsale](https://github.com/tsale) for the original project. This version is an enhanced version of his.
